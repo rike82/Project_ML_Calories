@@ -3,4 +3,4 @@
 like height, weight, duration and intensity(heartbeat) of the training.<br>
 Since the data I got from kaggle was synthetic and obviously not that great, my model turned out to be... lets call it useless..<br></p>
 <h6>If this has caught your interest, you are welcome to take a look at my presentation:</h6>
-<a href = 'https://docs.google.com/presentation/d/1ETAbh8orLjl-eg9eFwBD9tscM5xA-Lo-aI42bmLlTng/edit#slide=id.p13'>The CALORIE-NON-PREDICTOR</a>
+<a href = 'https://docs.google.com/presentation/d/1ETAbh8orLjl-eg9eFwBD9tscM5xA-Lo-aI42bmLlTng/edit#slide=id.p1'>The CALORIE-NON-PREDICTOR</a>
